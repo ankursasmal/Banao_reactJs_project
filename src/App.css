@@ -1,0 +1,41 @@
+ .hoverproperty:hover{
+    background-color: #8064A2
+    ;
+    color: white;
+    .btnhover3{
+      color: white;
+ 
+    }
+ }
+
+  
+ .hoverproperty1:hover{
+    background-color: #77933C
+
+    ;
+    color: white;
+    .btnhover2{
+      color: white;
+
+    }
+ }
+ .hoverproperty2:hover{
+    background-color: #C0504D
+    ;
+    color: white;
+    .btnhover1{
+      color: white;
+ 
+    }
+ }
+ .hoverproperty3:hover{
+    background-color: #0096C8
+    ;
+    color: white;
+    .btnhover{
+      color: white;
+ 
+    }
+ }
+  
+ 
